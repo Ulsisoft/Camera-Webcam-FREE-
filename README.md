@@ -26,5 +26,3 @@ Camera software has the abilities like:
 The application runs by itself though it's windows OS version.  
 It does work on 64 bit windows OS version as well.  No special requirement. 
 It runs straight after installation. FREE and runs indefinitely. NO license nor any registration required.
-
-Installation password : "EC23BF2B-8659-4E1F-BF01-AB80D36A2C0F" [ without quotes ]
